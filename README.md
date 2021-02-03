@@ -77,3 +77,4 @@ private:
 };
 
 ```
+![Wykres sinus](http://amsi.org.au/ESA_Senior_Years/imageSenior/2d_29.png)
