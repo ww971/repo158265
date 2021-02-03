@@ -1,18 +1,3 @@
-# repo158265
-
-## G³ówne informacje
-Program jest prostym skryptem do obliczania funkcji sinusa.
-
-
-## Technologie
-Projekt utworzony przy pomocy:
-Notepad++, CodeBlocks
-https://www.w3schools.com/cpp/
-
-
-## Skrypt
-
-```
 #include "mysin.h"
 #include <iostream>
 #include <conio.h>
@@ -75,5 +60,3 @@ private:
 }
 
 };
-
-```
